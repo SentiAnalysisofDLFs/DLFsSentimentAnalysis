@@ -1,0 +1,9 @@
+bugs_sentiment_score_mx.csv, bugs_sentiment_score_py.csv, bugs_sentiment_score_tf.csv: Sentiment score for each bug in DLFs.
+
+Category_sentiment_comment_mx.xlsx, Category_sentiment_comment_py.xlsx, Category_sentiment_comment_tf.xlsx: Sentiment score for each type of bug in DLFs.
+
+comments_sentiment_score_mx.csv, comments_sentiment_score_py.csv, comments_sentiment_score_tf.csv: Sentiment score for each bug comment in DLFs.
+
+processing_sentiment_analysis_mxComments_v1.0.csv, processing_sentiment_analysis_mxComments_v1.0.csv, processing_sentiment_analysis_mxComments_v1.0.csv: The bug information and bug comment processed text studied in this article.
+
+Result of Sentiment Analysis for Bug Resolution in DLFs.xlsx: Research results of RQ1 to RQ3.

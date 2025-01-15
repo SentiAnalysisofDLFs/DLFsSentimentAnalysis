@@ -1,0 +1,4 @@
+Understanding-Bugs-in-DLFs-main.zip: (https://github.com/Mining-DLF/Understanding-Bugs-in-DLFs)
+This file contains bug classification data for DLFs provided by Li et al., including bugs, corresponding pull request information, and classification results.
+
+Bugs-in-DLFs.sql: The experimental data used in this study includes bug data from the ``Understanding-Bugs-in-DLFs'' dataset, as well as bug comments and pull request comments that we have collected as supplements for our research.

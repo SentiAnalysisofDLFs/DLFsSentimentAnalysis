@@ -1,0 +1,7 @@
+DLFsDataCollect.ipynb: Supplemental collection of comments on bugs in the bug classification dataset named ``Understanding-Bugs-in-DLFs''.
+
+DLFsDataPreprocessing.ipynb: Extract every comment of the bug and process data.
+
+DLFsCommentsSentimentScore.ipynb: Use GPT-4o to obtain the sentiment score for each comment.
+
+DLFsSentimentAnalysis.ipynb: Analyze the sentiment involved in bug resolution in DLFs.
